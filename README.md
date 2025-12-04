@@ -23,7 +23,7 @@ Our journey will cover the following:
 To run this notebook, you will need to install Rust and notebook kernel. Do the following:
 1. Install Rust,
 2. install EvCxR (`cargo install evcxr_jupyter`),
-3. add Rust kernel to Jupyter ('cargo install evcxr_jupyter`), and,
+3. add Rust kernel to Jupyter (`evcxr_jupyter --install`), and,
 4. select Rust kernel in the Jupyter notebook (e.g, top right corner of notebook in VSCode).
 
 > [!NOTE]
